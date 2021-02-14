@@ -34,6 +34,8 @@ docs/_build
 # Virtual environments
 env
 env*
+venv
+venv*
 
 .webassets-cache
 .DS_Store
@@ -41,3 +43,4 @@ env*
 .cache/
 
 appname/static/public/*
+.vscode/settings.json
